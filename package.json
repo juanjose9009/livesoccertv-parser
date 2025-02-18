@@ -22,7 +22,7 @@
     "cheerio": "^1.0.0-rc.2",
     "city-timezones": "^1.0.3",
     "moment": "^2.20.1",
-    "moment-timezone": "^0.5.14"
+    "moment-timezone": "^0.5.14",
     "express": "^4.18.2"
   },
   "devDependencies": {

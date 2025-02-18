@@ -23,7 +23,8 @@
     "city-timezones": "^1.0.3",
     "moment": "^2.20.1",
     "moment-timezone": "^0.5.14",
-    "express": "^4.18.3"
+    "express": "^4.18.3",
+    "livesoccertv-parser": "^1.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

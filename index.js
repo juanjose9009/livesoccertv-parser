@@ -2,7 +2,7 @@ const express = require("express");
 const getMatches = require("livesoccertv-parser"); // Asegúrate de que esto es correcto
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 10000;
 
 // Ruta para obtener los datos de los partidos
 app.get("/partidos", async (req, res) => {
